@@ -1,0 +1,25 @@
+.postsBlock {
+    padding: 20px;
+    }
+.postsBlock h3 {
+    text-align: center;
+    }
+    .posts {
+        margin-top: 2%;
+    }
+.btn {
+    font-weight: 700;
+    color: white;
+    text-decoration: none;
+    padding: .8em 1em calc(.8em + 3px);
+    border-radius: 8%;
+    background: rgb(64,199,129);
+    box-shadow: 0 -350px #13ce66 inset;
+    transition: 0.2s;
+    margin-right: 20px;
+      } 
+.btn:hover { background: #13ce66; }
+.btn:active {
+    background: rgb(33,147,90);
+    box-shadow: 0 3px #13ce66 inset;
+    }

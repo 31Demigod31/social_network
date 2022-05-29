@@ -1,0 +1,26 @@
+.nav {
+    grid-area: n;
+    background-color: #13ce66;
+    padding: 20px;
+}
+
+.item {
+    color: white;
+    text-align: center;
+    padding: 20px 0 0 0;
+}
+.item a {
+    color: white;
+    text-decoration: none;
+}
+.item a.activeLink {
+    color: teal;
+}
+
+.nav a {
+    color: white;
+}
+.containerSidebar {
+    width: 100%;
+    margin-top: 50%;
+}
